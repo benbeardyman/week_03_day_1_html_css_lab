@@ -1,0 +1,38 @@
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body > header {
+    background-color: rgb(0, 174, 255);
+    color: white;
+}
+
+body > header {
+    margin: 0;
+    padding: 10px;
+}
+
+body > header nav > ul > li > a {
+    color: white;
+}
+
+body > header > nav > ul {
+    list-style: none;
+}
+
+#main_article {
+    width: 75%;
+    margin: auto;
+}
+
+body > footer {
+    background-color: rgb(0, 174, 255);
+    color: white;
+}
+
+body > footer {
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+}
+

@@ -1,4 +1,5 @@
 body {
+    margin: 0;
     font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -18,6 +19,10 @@ body > header nav > ul > li > a {
 
 body > header > nav > ul {
     list-style: none;
+}
+
+body > main {
+    margin: 10px;
 }
 
 body > main > section > ul {
